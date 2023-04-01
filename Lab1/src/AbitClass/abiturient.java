@@ -1,4 +1,4 @@
-package abiturient;
+package AbitClass;
 
 import java.util.Scanner;
 
