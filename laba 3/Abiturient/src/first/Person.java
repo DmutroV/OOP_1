@@ -1,8 +1,4 @@
 package first;
-
-
-import java.util.Scanner;
-
 public  class Person {
     private static int nextID = 0;
     private int id = getNextID();

@@ -1,7 +1,4 @@
 package first;
-import java.util.Scanner;
-
-
 public class Student extends Abiturient {
     private String faculty;
     private int course;

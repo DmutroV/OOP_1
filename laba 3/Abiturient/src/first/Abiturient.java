@@ -1,7 +1,4 @@
 package first;
-import java.util.Scanner;
-
-
 public class Abiturient extends Person {
     private static int nextID = 0;
     private int id = getNextID();
@@ -37,8 +34,6 @@ public class Abiturient extends Person {
     public String toString() {
         return "Abiturient{id=" + this.id + ", lastName='" + this.getLastName() + "', firstName='" + this.getFirstName() + "', patronymic='" + this.getPatronymic() + "', address='" + this.getAddress() + "', phone='" + this.getPhone() + "', averageScore=" + this.averageScore + "}";
     }
-
-
 }
 
 
